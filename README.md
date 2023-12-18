@@ -16,7 +16,7 @@ Projeto desenvolvido através do programa 7DaysOfCode - Alura
 
 ### Gabriel Pereira
 
-### Link da prévia: https://gabrielpereira360.github.io/alura_plus/
+### Link da prévia:
 
 ### Linkedin: https://www.linkedin.com/in/gabriel-martins2003/
 
