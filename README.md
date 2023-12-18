@@ -1,6 +1,3 @@
-# 7DaysOfCode
-Projeto desenvolvido através do programa 7DaysOfCode - Alura
-
 # Site em desenvolvimento no programa: 7DaysOfCode - Alura
 
 
