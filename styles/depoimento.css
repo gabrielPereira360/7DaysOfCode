@@ -1,0 +1,51 @@
+.depoimento__container {
+    padding: 0 8em;
+    margin-bottom: 5em;
+}
+
+.depoimentos {
+    padding: 4em;
+    border-radius: 16px;
+    background: rgba(195, 25, 25, 0.031);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.depoimento__subtitulo{
+    font-weight: 600;   
+    color: var(--vermelho--escuro);
+    margin-bottom: 2em;
+}
+
+.depoimento__titulo{
+    font-size: 36px;
+    margin-bottom: 1em;
+}
+
+.depoimentos__usuario{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.depoimento__img{
+    width: 5%;
+    margin-bottom: 1em;
+}
+
+.depoimento__img:hover{
+    opacity: 0.8;
+}
+
+.depoimento__nome--usuario{
+    margin-bottom: 0.5em;
+}
+
+.depoimento__desc--usuario{
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cinza--claro);
+}
