@@ -19,7 +19,7 @@
 
 ### Gabriel Pereira
 
-### Link da prévia:
+### Link da prévia: https://gabrielpereira360.github.io/7DaysOfCode/
 
 ### Linkedin: https://www.linkedin.com/in/gabriel-martins2003/
 
